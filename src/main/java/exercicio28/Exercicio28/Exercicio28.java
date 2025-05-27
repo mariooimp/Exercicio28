@@ -112,6 +112,6 @@ public class Exercicio28 {
             somad2 += matriz[i][i - 2];
         }
         
-        /* */
+        /*aaaa */
     }
 }
